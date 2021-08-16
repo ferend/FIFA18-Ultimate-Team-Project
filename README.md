@@ -1,4 +1,4 @@
-# FIFA18-Ultimate-Team-School-Project
+# FIFA18-Ultimate-Team-EDA-Project
 This is a machine learning project with a report. The project is completed using R language. 
 
 This project forecast football players' market value using FIFA 18 Ultimate Team Dataset (for reference: https://www.kaggle.com/kevinmh/fifa-18-more-complete-player-dataset) 
