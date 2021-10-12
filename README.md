@@ -5,6 +5,7 @@ This project forecast football players' market value using FIFA 18 Ultimate Team
 
 The results are interpreted according to their Mean Square Errors. 
 
+**_You can download and view my report from pdf file._**
 
 This project aims to classify and predict football player value with different machine learning models. Random Forest Model, Multiple Regression, Lasso and Ridge Regression, and Regression Tree models are used to analyze FIFA 18 Ultimate Team Dataset. Results are interpreted with their RMSE. Our model with the lowest RMSE is Random Forest Model which means prediction accuracy is better than the others. 
 
